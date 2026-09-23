@@ -1,0 +1,29 @@
+[
+  {
+    "program_name": "Canada Greener Homes Grant",
+    "incentive_type": "Grant",
+    "status": "Closed",
+    "amount": "$5,000 max",
+    "eligibility": "Program is fully closed; no new applications accepted.",
+    "source_url": "https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/closed-canada-greener-homes-grant-0",
+    "last_verified": "2026-09-23"
+  },
+  {
+    "program_name": "Ontario Home Renovation Savings Program (HRS)",
+    "incentive_type": "Rebate",
+    "status": "Open",
+    "amount": "Varies by equipment (up to $7,500 for heat pumps)",
+    "eligibility": "Ontario residents, replacing qualifying HVAC or adding insulation; no EnerGuide pre-assessment required",
+    "source_url": "https://www.enbridgegas.com/ontario/rebates-energy-conservation/home-efficiency-rebate",
+    "last_verified": "2026-09-23"
+  },
+  {
+    "program_name": "IESO Save on Energy – Retrofit Program",
+    "incentive_type": "Incentive",
+    "status": "Open",
+    "amount": "Up to 50% of eligible project costs",
+    "eligibility": "Ontario businesses and institutional facilities, pre-approval required",
+    "source_url": "https://saveonenergy.ca/For-Business-and-Industry/Programs-and-incentives/Retrofit-Program",
+    "last_verified": "2026-09-23"
+  }
+]
