@@ -1,6 +1,7 @@
 [
   {
     "program_name": "Canada Greener Homes Grant",
+    "provider": "Natural Resources Canada",
     "incentive_type": "Grant",
     "status": "Closed",
     "amount": "$5,000 max",
@@ -10,6 +11,7 @@
   },
   {
     "program_name": "Ontario Home Renovation Savings Program (HRS)",
+    "provider": "Enbridge Gas",
     "incentive_type": "Rebate",
     "status": "Open",
     "amount": "Varies by equipment (up to $7,500 for heat pumps)",
@@ -19,6 +21,7 @@
   },
   {
     "program_name": "IESO Save on Energy – Retrofit Program",
+    "provider": "IESO",
     "incentive_type": "Incentive",
     "status": "Open",
     "amount": "Up to 50% of eligible project costs",

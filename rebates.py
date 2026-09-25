@@ -13,6 +13,7 @@ def search(df, keyword):
 
     mask = (
         df["program_name"].str.lower().str.contains(keyword, na=False) 
+        | df["provider"].str.lower().str.contains(keyword, na=False)
         | df["eligibility"].str.lower().str.contains(keyword, na=False)
         | df["amount"].str.lower().str.contains(keyword, na=False)
     )
