@@ -23,8 +23,15 @@ def filter_by_type(df, incentive_type):
     """Return rows with an exact match on incentive_type."""
     return df[df["incentive_type"] == incentive_type]
 
+def filter_by_status(df, status):
+    return df[df["status"] == status]
+
+open_df = filter_by_status(df, "Open")
+open_df.to_csv("rebates_open.csv", index=False)
+
 print(df)
 print(f"\nWrote {len(df)} rebates to rebates.csv")
+print(f"\nWrote {len(df)} open programs to rebates_open.csv")
 
 print("\n--- Search: 'heat pump' ---")
 print(search(df, "heat pump"))
