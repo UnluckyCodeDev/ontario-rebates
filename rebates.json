@@ -4,109 +4,131 @@
     "provider": "Natural Resources Canada",
     "incentive_type": "Grant",
     "status": "Closed",
-    "amount": "$5,000 max",
+    "category": "Whole Home",
+    "amount_text": "$5,000 max",
+    "amount_max_cad": 5000,
     "eligibility": "Program is fully closed; no new applications accepted.",
     "source_url": "https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/closed-canada-greener-homes-grant-0",
-    "last_verified": "2026-09-23"
+    "last_verified": "2026-10-01"
   },
   {
     "program_name": "Ontario Home Renovation Savings Program (HRS)",
     "provider": "Enbridge Gas",
     "incentive_type": "Rebate",
     "status": "Open",
-    "amount": "Varies by equipment (up to $7,500 for heat pumps)",
+    "category": "Whole Home",
+    "amount_text": "Varies by equipment (up to $7,500 for heat pumps)",
+    "amount_max_cad": 7500,
     "eligibility": "Ontario residents, replacing qualifying HVAC or adding insulation; no EnerGuide pre-assessment required",
-    "source_url": "https://www.enbridgegas.com/ontario/rebates-energy-conservation/home-efficiency-rebate",
-    "last_verified": "2026-09-23"
+    "source_url": "https://enbridgegas.com",
+    "last_verified": "2026-10-01"
   },
   {
     "program_name": "IESO Save on Energy – Retrofit Program",
     "provider": "IESO",
-    "incentive_type": "Incentive",
+    "incentive_type": "Rebate",
     "status": "Open",
-    "amount": "Up to 50% of eligible project costs",
+    "category": "Business",
+    "amount_text": "Up to 50% of eligible project costs",
+    "amount_max_cad": null,
     "eligibility": "Ontario businesses and institutional facilities, pre-approval required",
-    "source_url": "https://saveonenergy.ca/For-Business-and-Industry/Programs-and-incentives/Retrofit-Program",
-    "last_verified": "2026-09-23"
+    "source_url": "https://saveonenergy.ca",
+    "last_verified": "2026-10-01"
   },
   {
     "program_name": "First Nations Community Building Retrofit Program (FNCBRP)",
     "provider": "IESO",
-    "incentive_type": "Incentive",
+    "incentive_type": "Grant",
     "status": "Open",
-    "amount": "Up to $330,000",
+    "category": "Business",
+    "amount_text": "Up to $330,000",
+    "amount_max_cad": 330000,
     "eligibility": "Ontario's grid-connected First Nations communities are eligible with a Band Council Resolution and band-owned, community-benefit facilities.",
-    "source_url": "https://saveonenergy.ca/First-Nations-Energy-Programs/First-Nations-Community-Building-Retrofit-Program",
-    "last_verified": "2026-09-25"
+    "source_url": "https://saveonenergy.ca",
+    "last_verified": "2026-10-01"
   },
   {
     "program_name": "Savings by Design Affordable Housing",
     "provider": "Enbridge Gas",
-    "incentive_type": "Incentive",
+    "incentive_type": "Rebate",
     "status": "Open",
-    "amount": "up to $120,000",
+    "category": "Multi-Residential",
+    "amount_text": "up to $120,000",
+    "amount_max_cad": 120000,
     "eligibility": "You must be an affordable housing provider who has received financial assistance, in the past or present, from a government program aimed at creating new affordable housing.",
-    "source_url": "https://www.enbridgegas.com/ontario/business-industrial/incentives-conservation/programs-and-incentives/new-construction/savings-by-design/affordable-housing",
-    "last_verified": "2026-09-25"
+    "source_url": "https://enbridgegas.com",
+    "last_verified": "2026-10-01"
   },
   {
     "program_name": "Affordable Housing Multi-Residential Program",
     "provider": "Enbridge Gas",
-    "incentive_type": "Incentive",
+    "incentive_type": "Rebate",
     "status": "Open",
-    "amount": "Up to $8,000 per building. Maximum limit of $40,000 per housing provider.",
+    "category": "Multi-Residential",
+    "amount_text": "Up to $8,000 per building. Maximum limit of $40,000 per housing provider.",
+    "amount_max_cad": 40000,
     "eligibility": "Eligible projects include HVAC audits, controls audits, steam trap audits, thermal surveys, facility air-balances, benchmarking activities and equipment upgrade analyses.",
-    "source_url": "https://www.enbridgegas.com/ontario/business-industrial/incentives-conservation/programs-and-incentives/retrofits-custom-projects/affordable-multi-family-housing-program",
-    "last_verified": "2026-09-25"
+    "source_url": "https://enbridgegas.com",
+    "last_verified": "2026-10-01"
   },
   {
     "program_name": "Home Energy Loan Program (HELP)",
     "provider": "Federation of Canadian Municipalities",
-    "incentive_type": "Rebate",
+    "incentive_type": "Loan",
     "status": "Open",
-    "amount": "up to $125,000",
+    "category": "Whole Home",
+    "amount_text": "up to $125,000",
+    "amount_max_cad": 125000,
     "eligibility": "Toronto low-rise property owners with clean tax histories and lender consent can get low-interest HELP loans, which can be combined with other energy rebates.",
-    "source_url": "https://www.toronto.ca/services-payments/water-environment/environmental-grants-incentives/home-energy-loan-program-help/",
-    "last_verified": "2026-09-25"
+    "source_url": "https://toronto.ca",
+    "last_verified": "2026-10-01"
   },
   {
     "program_name": "Eco-Roof Incentive Program",
     "provider": "City of Toronto",
-    "incentive_type": "Incentive",
+    "incentive_type": "Grant",
     "status": "Open",
-    "amount": "Up to $2 to $5/m2 for a cool roof (to a maximum of $50,000) or $100/m2 for a green roof (to a maximum of $100,000)",
+    "category": "Roof",
+    "amount_text": "Up to $2 to $5/m2 for a cool roof (to a maximum of $50,000) or $100/m2 for a green roof (to a maximum of $100,000)",
+    "amount_max_cad": 100000,
     "eligibility": "Grants are available to support the installation of green and cool roofs on residential homes. A green or cool roof can reduce a home's energy use, retain stormwater and more.",
-    "source_url": "https://www.toronto.ca/services-payments/water-environment/environmental-grants-incentives/green-your-roof/",
-    "last_verified": "2026-09-25"
+    "source_url": "https://toronto.ca",
+    "last_verified": "2026-10-01"
   },
   {
     "program_name": "Heat Pumps",
     "provider": "Home Renovation Savings",
     "incentive_type": "Rebate",
     "status": "Open",
-    "amount": "Up to $12,000",
+    "category": "Heat Pump",
+    "amount_text": "Up to $12,000",
+    "amount_max_cad": 120000,
     "eligibility": "To qualify for a heat pump rebate, homeowners—including landlords—must occupy an existing detached, semi-detached, row, or mobile home and be an Enbridge Gas residential customer or connected to the Ontario electricity grid.",
-    "source_url": "https://www.homerenovationsavings.ca/without-assessment/heat-pumps",
-    "last_verified": "2026-09-25"
+    "source_url": "https://homerenovationsavings.ca",
+    "last_verified": "2026-10-01"
   },
   {
     "program_name": "Rooftop Solar Panels and Battery Storage",
     "provider": "Home Renovation Savings",
     "incentive_type": "Rebate",
     "status": "Open",
-    "amount": "Up to $10,000",
+    "category": "Solar",
+    "amount_text": "Up to $10,000",
+    "amount_max_cad": 100000,
     "eligibility": "New installations only; replacement solar is not eligible for rebates. Solar panels must be sized solely for load displacement. Net metering is not permitted.",
-    "source_url": "https://www.homerenovationsavings.ca/without-assessment/solar",
-    "last_verified": "2026-09-25"
+    "source_url": "https://homerenovationsavings.ca",
+    "last_verified": "2026-10-01"
   },
   {
     "program_name": "Electric Vehicle Affordability Program (EVAP)",
     "provider": "Transport Canada",
-    "incentive_type": "Incentive",
+    "incentive_type": "Rebate",
     "status": "Open",
-    "amount": "Up to $5,000",
+    "category": "Vehicle",
+    "amount_text": "Up to $5,000",
+    "amount_max_cad": 5000,
     "eligibility": "To qualify for the incentive, vehicles must be new, four-wheeled, highway-capable, under 8,500 pounds, bought or leased on or after February 16, 2026, and either capped at $50,000 or Canadian-made under a free-trade agreement.",
-    "source_url": "https://tc.canada.ca/en/road-transportation/innovative-technologies/electric-vehicles/electric-vehicle-affordability-program/overview",
-    "last_verified": "2026-09-25"
+    "source_url": "https://canada.ca",
+    "last_verified": "2026-10-01"
   }
 ]

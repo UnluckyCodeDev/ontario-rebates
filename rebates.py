@@ -15,7 +15,8 @@ def search(df, keyword):
         df["program_name"].str.lower().str.contains(keyword, na=False) 
         | df["provider"].str.lower().str.contains(keyword, na=False)
         | df["eligibility"].str.lower().str.contains(keyword, na=False)
-        | df["amount"].str.lower().str.contains(keyword, na=False)
+        | df["amount_text"].str.lower().str.contains(keyword, na=False)
+        | df["category"].str.lower().str.contains(keyword, na=False)
     )
     return df[mask]
 
