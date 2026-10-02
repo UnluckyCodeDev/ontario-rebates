@@ -42,3 +42,6 @@ print(search(df, "Enbridge"))
 
 print("\n--- Grants only ---")
 print(filter_by_type(df, "Grant"))
+
+print("\n--- Sorted by max amount (high to low) ---")
+print(df.sort_values("amount_max_cad", ascending=False, na_position="last")[["program_name", "amount_text", "amount_max_cad"]])
