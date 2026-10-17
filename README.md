@@ -106,6 +106,11 @@ ontario-rebates/
 
 I am a Grade 12 student in Toronto learning Python. This is the first project in my portfolio, and it connects to a business idea I am working on to help local contractors make quotes faster. Please let me know if you have any feedback.
 
+**Last full verification: 17/10/2026**
+  
+**__Other related projects:__**
+- **[Heat Pump Sizer](https://github.com/UnluckyCodeDev/heat-pump-sizer)** — A live, vanilla-JS tool that estimates heat pump sizing and installed cost ranges for Toronto homes.
+
 ## License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
